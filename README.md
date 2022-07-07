@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kiyan-r-m
 - 👀 I’m interested in Web Development & cloud.
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full Stack and .NET Core
 - 📫 How to reach me krdmorena@gmail.com
 
 <!---
