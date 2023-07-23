@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @kiyan-r-m
-- 👀 I’m interested in Web Development & cloud.
-- 🌱 I’m currently learning Full Stack and .NET Core
-- 📫 How to reach me krdmorena@gmail.com
+# Hi,
+## I'm Kiyan Morena
+### I am a college student who loves to develop web applications, and learn more about cloud and open source technologies.
 
-<!---
-kiyan-r-m/kiyan-r-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My favourite languages to write code in are Java, JavaScript and C#.
+I also have some experience with PHP, NodeJS and their frameworks.
+How to contact me: krdmorena@gmail.com
