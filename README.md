@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Kiyan, a college student who loves to code and talk about open source technologies. 🚀</div>  
+### <div align="center">I'm Kiyan, a fintech professional who loves to code and talk about open source technologies. 🚀</div>  
   
 
-- 🔭 I’m currently in my final year of post-graduate degree, learning Information technology.  
+- 🔭 I’m currently working as a Java Developer at NJ Group.  
   
 
 - 🌱 I’m currently learning microservices and ML.  
   
 
-- ❓ Ask me about anything related to backend web development, especially using J2EE.  
+- ❓ Ask me about anything related to backend web development, especially using J2EE & Spring.  
   
 
 <br/>  
